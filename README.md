@@ -9,7 +9,12 @@ CCCVBY3SCHOWYSGNCBFIT46CTBX2A6OD6U5344JGMZO47ZRJRVN4MBM4
 fbd578e17392209a4b7a8f0d403df5e02542e1fc86398c03750643a594f31cd0
 #### Live demo link
 https://bstellar-pay.vercel.app/
-
+#### walllet connected state and balance displayed 
+![Wallet Setup](public/screenshot5.png)
+#### successfull tesnet transaction
+![Wallet Setup](public/screenshot6.png)
+#### transaction result shown to user
+![Wallet Setup](public/screenshot7.png)
 #### Screenshot: wallet options available
 ![Wallet Setup](public/screenshot1.png)
 
